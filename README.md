@@ -18,10 +18,18 @@
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=Latex&logoColor=white">
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
+<div>
+<br>
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx672219&hide=jupyter%20notebook&layout=compact&theme=tokyonight)
+
+</div>
+
