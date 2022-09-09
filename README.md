@@ -22,6 +22,6 @@
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=MicrosoftExcel&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-
-#
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx672219&hide=jupyter%20notebook&layout=compact&theme=tokyonight)
