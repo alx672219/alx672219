@@ -1,5 +1,8 @@
-### 💪 Programming Languages 💪
-<div>
+<h2 align = "center"> 
+💪 Programming Languages 💪
+</h2>
+
+<div align = "center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -11,8 +14,12 @@
 <br>
 </div>
 
-### ⚒ Tools ⚒
-<div>
+
+<h2 align = "center">
+⚒ Tools ⚒
+</h2>
+
+<div align = "center">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white">
@@ -27,7 +34,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
-<div>
+
+<div align = "center">
 <br>
 <br>
 <br>
